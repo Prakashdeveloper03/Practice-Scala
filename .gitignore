@@ -1,0 +1,4 @@
+*.class
+*.tasty
+.vscode
+.scala-build
